@@ -1,0 +1,225 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+section {
+    width: 100%;
+    height: 450px;
+    padding-bottom: 150px;
+
+}
+
+.orange-color {
+    color: Orange;
+}
+
+#title {
+    padding-top: 100px;
+    padding-right: 20%;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+.top-section {
+    background-image: url(images/Untitled-4.jpg);
+    background-repeat: no-repeat;
+
+}
+
+#title-paragrapg {
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 45%;
+    font-size: 16px;
+    color: white;
+}
+
+.Link-Button {
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(#ff5050, #ff99cc);
+    border-radius: 10px;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+}
+
+#top-button {
+    display: flex;
+    justify-content: center;
+    margin-right: 15%;
+
+}
+
+
+.donate-area {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 300px;
+
+}
+
+.donate-diclareation {
+    margin-top: 100px;
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+
+}
+
+.taka {
+    margin-top: 100px;
+    padding-left: 0%;
+    padding-right: 10%;
+}
+
+.amount-of-taka {
+    margin-top: 70px;
+    margin-left: 18%;
+    padding-right: 15%;
+    border: Noborder;
+
+}
+
+.amount-of-taka input {
+    margin-left: 5%;
+    text-decoration: none;
+    background-color: #f8f8ffe3;
+    font-weight: 700;
+    padding: 50px 35px 50px 35px;
+    border-style: hidden;
+
+}
+
+#submit-taka {
+    border: 3px solid red;
+}
+
+#personal-amount {
+    margin-left: 40%;
+    background-color: white
+}
+
+.middle button {
+    padding-left: 30%;
+}
+
+#middle-button {
+    display: flex;
+    justify-content: center;
+    margin-left: 5%;
+    margin-bottom: 50px;
+}
+
+.Donation-plan {
+    margin-top: 80px;
+    display: flex;
+    height: 320px;
+
+}
+
+
+.third-div {
+    padding-top: 25px;
+    width: 21%;
+    margin-left: 8%;
+    padding-left: 2%;
+    background-color: #ADD8E6;
+}
+
+.second-color {
+    background-color: #D5D6EA;
+}
+
+.third-color {
+    background-color: #FFC0CB;
+}
+
+.update-section {
+    margin-top: -80px;
+
+
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+}
+
+.form {
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    background-color: #FFC0CB;
+}
+
+.subscribe {
+    margin: auto;
+    width: 750px;
+    height: 200px;
+    margin-top: 100px;
+    background-color: #FFEBCD;
+    margin-bottom: 100px;
+    margin-top: 25px;
+    display: flex;
+
+}
+
+#last-input {
+
+    background-color: #5F9EA0;
+    border-style: none;
+    width: 300px;
+    height: 40px;
+    margin-top: 70px;
+    margin-left: 51%;
+    font: 18px;
+    border-radius: 5px;
+
+
+
+}
+
+#last-button {
+
+    background-color: #FF4500;
+    border-style: none;
+    margin-left: 55%;
+    height: 40px;
+    margin-top: 70px;
+    width: 100px;
+    color: white;
+    font: 18px;
+    border-radius: 5px;
+
+}
+
+footer {
+    height: 160px;
+    background-color: black;
+
+}
+
+#footer {
+    margin-top: 45px;
+    color: red;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+}
+
+footer p {
+    text-align: center;
+    color: white;
+    margin-top: -15px;
+}
